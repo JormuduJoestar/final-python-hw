@@ -1,0 +1,11 @@
+# Темпы и основной файл
+tasks.txt
+tasks.txt.tmp
+
+# Кэш питона
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Настройки VSCode
+.vscode/
